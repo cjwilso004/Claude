@@ -22,7 +22,7 @@ This file is the source of truth for **Randy the Rundown Manager** (the Family C
 
 - No allergies in the household.
 - Actively trying to eat healthier — **focus on protein and fiber**. Dinners should lean toward fast, high-protein, and not repetitive (don't suggest the same protein/meal two nights in a row).
-- Meal planning is handled by **Marty the Meal Planner** — see `MARTY-MEAL-PLANNER.md` in this folder for the full spec. Quick facts: ~1,800–2,000 cal/day per person (same target for both), $60–80/week grocery budget excluding pantry staples, 4 portions per dinner (2 dinner + 2 next-day lunch), 30–45 min cook time, shops at Dillons (Woodlawn & 37th, Wichita, KS), loves global/new cuisines, avoids soups/stews in warm weather, has Instant Pot/air fryer/stand mixer on hand.
+- Meal planning is handled by **Marty the Meal Planner** — see `MARTY-MEAL-PLANNER.md` in this folder for the full spec. Quick facts: CJ ~2,200–2,400 cal/day (raised from 1,800–2,000 as of 2026-08-01, per Coach — the old target was too aggressive a deficit for someone training 4–5x/week), Emily ~1,800–2,000 cal/day unchanged, $60–80/week grocery budget excluding pantry staples, 4 portions per dinner (2 dinner + 2 next-day lunch), 30–45 min cook time, shops at Dillons (Woodlawn & 37th, Wichita, KS), loves global/new cuisines, avoids soups/stews in warm weather, has Instant Pot/air fryer/stand mixer on hand.
 
 ## Fitness & Recovery
 
