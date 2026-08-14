@@ -48,4 +48,6 @@ This file is the source of truth for **Randy the Rundown Manager** (the Family C
 - Birthdays and anniversaries to track — "Scott's B-Day" is a recurring all-day event on the Scheuffele Family calendar (seen 8/10/2026, likely Emily's side of the family — relationship to Emily not yet confirmed).
 - Emily attends Virtuoso Travel Week / Virtuoso Conference in Las Vegas annually in early August — worth expecting again next year and checking the calendar for it around that time.
 - Anything school-related (currently N/A — no kids in household)
+- Benji has at least one recurring vet touchpoint — "Benji's Injection" appeared on the Wilson Family calendar for 8/14/2026. Keep watching for a pattern (frequency, provider) to confirm if it's truly recurring.
+- "Dad's B-day" is a recurring all-day event on the Scheuffele Family calendar (8/20/2026) — likely Emily's father, not yet confirmed as distinct from or the same person as "Scott's B-Day" noted earlier (8/10, same calendar). Worth clarifying the relationship between these two entries.
 - Resolved: CJ reconnected the calendar to a personal account, so it now has the real family calendars (see Connected Calendar account above) instead of just Emily's bare business calendar.
